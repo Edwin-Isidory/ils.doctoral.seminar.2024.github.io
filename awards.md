@@ -20,7 +20,7 @@ In the spirit of recognizing the diverse talents and unique contributions to thi
 
 8. Most Precise Presenter (Least Deviation from 20'): Recognizing the presenter who adheres most closely to the allocated time frame.
 
-9. Best Abstract (According to ChatGPT): Awarded to the participant with the abstract that captures the attention and admiration of our AI assistant, ChatGPT.
+9. Best Abstract (According to ChatGPT): Awarded to the participant with the abstract that captures the attention and admiration of AI assistant, ChatGPT.
 
 10. Longest Introduction: Recognizing the speaker who crafts the most comprehensive and captivating introduction to their presentation.
 
@@ -32,7 +32,7 @@ In the spirit of recognizing the diverse talents and unique contributions to thi
 
 14. Longest Technical Delay: Acknowledging the unavoidable technical glitches that extend beyond the usual boundaries of patience.
 
-15. Best Student Presentation: Celebrating the outstanding presentation delivered by a student participant.
+15. Best Student Presentation: Celebrating the outstanding presentation delivered by a participant.
 
 16. Best Postdoc Presentation: Acknowledging excellence in presentation skills among postdoctoral researchers.
 
