@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "index.html", title: "Topics"}
-  - {file: "/Time_Schedule.xlsx", title: "Schedule"}
+  - {file: "Time_Schedule.xlsx", title: "Schedule"}
   - {title: "index.html", title: "Awards"}
   - {title: "index.html", title: "Social Events"}
 
