@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Mail, icon: envelope, url: "mailto:bjoern.annighoefer@ils.uni-stuttgart.de"}
   - {title: Github, icon: github, url: "https://github.com/https://github.com/ils.doctoral.seminar.2024"}
   - {title: ILS website, icon: rss, url: "https://www.ils.uni-stuttgart.de/en/"}
 
