@@ -17,9 +17,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "index.html", title: "Topics", icon: home}
+  - {title: "index.html", title: "Topics"}
   - {file: "/schedule.pdf", title: "Schedule"}
-  - {title: "index.html", title: "Awards", icon: home}
+  - {title: "index.html", title: "Awards"}
+  - {title: "index.html", title: "Social Events"}
 
   
 
