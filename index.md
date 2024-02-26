@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welc message"
+title: "Welcome message"
 ---
 It is my distinct pleasure to extend a warm welcome to each and every one of you as we gather for this prestigious doctoral seminar at the Institute of Aircraft Systems. Today marks a significant moment in our academic journey, as we come together to explore and share groundbreaking research and insights in the field of aviation.
 
