@@ -2,22 +2,17 @@
 layout: page
 title: "Events"
 ---
-laser tag
-![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/4dee2dd7-979d-4578-b27e-228e8f37d8f3)
+LASER TAG
+![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/1d513a73-acaa-43b4-96f7-f669c866c356)
 
 
-exit games
-![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/d3a3e44d-bedf-4cba-ba37-ec87a8bcf2bb)
+EXIT GAME
+![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/d84186a5-31c5-40c6-9d34-37fe73d72032)
 
 
-go kart
-![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/0f3ee76a-0933-42a5-b4d6-16e574f146bc)
+GO KART
+![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/6886015d-3bfc-4ec0-9360-37a6d1d547f6)
 
 
-Jumping booth
-![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/c4d3cb39-5d9c-4291-9c6f-f3a5be3bd7c6)
 
-
-fun sport events 
-![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/cca238f7-de07-4146-adbd-2fd520bd7311)
 
