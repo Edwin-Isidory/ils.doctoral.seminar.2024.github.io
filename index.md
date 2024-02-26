@@ -2,6 +2,9 @@
 layout: page
 title: "Welcome message"
 ---
+![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/4d07ad08-df36-4f16-9fca-caf0815bc02a)
+
+
 It is our distinct pleasure to extend a warm welcome to each and every one of you as we gather for this prestigious doctoral seminar at the Institute of Aircraft Systems. Today marks a significant moment in our academic journey, as we come together to explore and share groundbreaking research and insights in the field of aircraft systems.
 
 Our Institute stands as a beacon of excellence, fostering innovation and pushing the boundaries of knowledge in aircraft systems. As we embark on this seminar, we celebrate the dedication and intellectual curiosity that has brought us to this moment. The diverse expertise and perspectives represented in this room undoubtedly contribute to the richness of our discussions and the depth of our collective understanding.
