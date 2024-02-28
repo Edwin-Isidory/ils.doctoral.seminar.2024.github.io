@@ -1,7 +1,7 @@
----
-layout: page
-title: "Welcome message"
----
+                                                                                                ---
+                                                                                            layout: page
+                                                                                      title: "Welcome message"
+                                                                                                ---
                 
 It is a special pleasure for us to welcome every one of you to this doctoral seminar at the Institute of Aircraft Systems (ILS). The doctoral seminar aims to exchange research results and findings in the field of aeronautical systems and to network. This year, for the first time, the doctoral seminar will take place as a block event lasting 2 days, thus promoting direct exchange among scientists and enabling listeners to gain a comprehensive insight into the research areas at the ILS.
 
