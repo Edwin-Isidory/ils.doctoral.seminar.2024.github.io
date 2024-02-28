@@ -15,6 +15,7 @@ X:\08 Dissertationen\10 Allgemeines\Doktorandenseminar\2024\Presentations
 **by 6th of March, 2:00 PM.**
 
 **Presentation Format:**
+
 •	Your presentation can be in any format supported by Microsoft PowerPoint or PDF.
 
 •	Please ensure your slides are clear, legible, and visually engaging. Use high-contrast colors for text and background to enhance readability.
