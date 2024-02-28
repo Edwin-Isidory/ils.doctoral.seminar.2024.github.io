@@ -27,11 +27,12 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
-<header>
+<header style="text-align: center;">
   <a href="{{ '/' | relative_url }}">
-    <img src="{{ site.logo | relative_url }}" alt="Logo" style="height: 100px;">
-    <span>{{ site.title }}</span>
+    <img src="{{ '/assets/ils.png' | relative_url }}" alt="Logo" style="height: 100px; vertical-align: middle;">
+    <span style="vertical-align: middle;">{{ site.title | escape }}</span>
   </a>
+  {% include menu.html menu=pages %}
 </header>
 
 
