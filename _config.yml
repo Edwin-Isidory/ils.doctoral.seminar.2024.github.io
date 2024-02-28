@@ -1,4 +1,4 @@
-title: "ILS DOCTORAL SEMINAR PRESENTATION 2024"
+title: "ILS DOCTORAL SEMINAR 2024"
 author: "Edwin Isidory"
 description: "Institute of Aircraft Systems"
 permalink: /:title/
@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   
 
 external:                # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:bjoern.annighoefer@ils.uni-stuttgart.de"}
+  - {title: Mail, icon: envelope, url: "mailto:mail@ils.uni-stuttgart.de"}
   - {title: ILS website, icon: rss, url: "https://www.ils.uni-stuttgart.de/en/"}
 
 comments:
