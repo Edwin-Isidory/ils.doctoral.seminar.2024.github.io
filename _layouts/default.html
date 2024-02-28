@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
-    <a href="{{ '/' | relative_url }}">
-    <img src="{{ '/assets/ils.png' | relative_url }}" alt="Institute of Aircraft Systems Doctoral Seminar 2024 Logo" style="height: 100px;">
-  </a>
-
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="{{ page.author | default: site.author | escape }}">
@@ -31,6 +27,11 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
+<header style="text-align: center;">
+  <a href="{{ '/' | relative_url }}">
+    <img src="{{ '/assets/ils.png' | relative_url }}" alt="Institute of Aircraft Systems Doctoral Seminar 2024 Logo" style="height: 60px;">
+  </a>
+</header>
 
   
 <header>
