@@ -31,7 +31,15 @@
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
 </header>
+<header style="text-align: center;">
+    <a href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/ils.png' | relative_url }}" alt="Institute of Aircraft Systems Doctoral Seminar 2024 Logo" style="height: 100px;">
+      {{ site.title | escape }}
+    </a>
+    {% include menu.html menu=pages %}
+  </header>
 
+  
 {{ content }}
 
 {% if site.external %}
