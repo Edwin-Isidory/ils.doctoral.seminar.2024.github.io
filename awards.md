@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Doctoral Seminar Presenter Instructions"
+title: "Doctoral Seminar Presenter Instructiohgjgjgjjkgkgkgkghkhgkhgns"
 ---
 Dear Presenter,
 Thank you for your participation in our upcoming doctoral seminar. Your contribution is invaluable, and we look forward to your presentation. Please find below important instructions and guidelines to ensure a smooth and effective session.
