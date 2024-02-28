@@ -3,7 +3,10 @@ layout: page
 title: "Welcome message"
 ---
                 
-                           ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/34aa6d89-c06b-460b-a1ab-65c8da110f5f)
+  ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/d2b4e3df-a6c1-4920-abb6-2944cb5978af)
+
+
+
 
 
 
