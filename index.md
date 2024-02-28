@@ -2,7 +2,8 @@
                                                                                      layout: page
                                                                                title: "Welcome message"
 ---
-                                 ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/4002fb14-b49f-442c-818a-51762db327ca)
+                                     ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/07353c7f-c230-42c4-94dd-183a6b87f522)
+
 
 It is a special pleasure for us to welcome every one of you to this doctoral seminar at the Institute of Aircraft Systems (ILS). The doctoral seminar aims to exchange research results and findings in the field of aeronautical systems and to network. This year, for the first time, the doctoral seminar will take place as a block event lasting 2 days, thus promoting direct exchange among scientists and enabling listeners to gain a comprehensive insight into the research areas at the ILS.
 
