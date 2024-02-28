@@ -2,8 +2,10 @@
 layout: page
 title: "Schedule"
 ---
-![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/e080de5e-54fb-49f9-badc-068af873f8a2)
+  ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/beabec46-ced0-4ee6-9edb-3b64bbae95b8)
 
 
-![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/e40ebc0e-9477-4476-8fbb-0ca7e26964a0)
+
+  ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/19ed92a4-a914-48e9-8ea4-a31382e8159d)
+
 
