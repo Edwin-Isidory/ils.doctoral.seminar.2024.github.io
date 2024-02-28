@@ -17,8 +17,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Schedule", file: "schedule.md"}
   - {title: "Presenter Instructions", file: "awards.md"}
+  - {title: "Schedule", file: "schedule.md"}
   - {title: "Social Events", file: "events.md"}
 
   
