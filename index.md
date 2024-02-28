@@ -2,12 +2,10 @@
 layout: page
 title: "Welcome message"
 ---
-It is our distinct pleasure to extend a warm welcome to each and every one of you as we gather for this prestigious doctoral seminar at the Institute of Aircraft Systems. Today marks a significant moment in our academic journey, as we come together to explore and share groundbreaking research and insights in the field of aircraft systems.
+It is a special pleasure for us to welcome every one of you to this doctoral seminar at the Institute of Aircraft Systems (ILS). The doctoral seminar aims to exchange research results and findings in the field of aeronautical systems and to network. This year, for the first time, the doctoral seminar will take place as a block event lasting 2 days, thus promoting direct exchange among scientists and enabling listeners to gain a comprehensive insight into the research areas at the ILS.
 
-Our Institute stands as a beacon of excellence, fostering innovation and pushing the boundaries of knowledge in aircraft systems. As we embark on this seminar, we celebrate the dedication and intellectual curiosity that has brought us to this moment. The diverse expertise and perspectives represented in this room undoubtedly contribute to the richness of our discussions and the depth of our collective understanding.
+In the sessions, we will look at the latest advances, methods, and discoveries that are shaping the future of aircraft systems. This includes the development of avionics platforms, the study of certification methods, including in the AI area, as well as methods and tool development for avionics system development. This seminar serves as a platform for collaboration, where ideas are exchanged, challenges are addressed, and solutions are formulated. It is not only an opportunity to showcase individual accomplishments but also a chance to engage in meaningful dialog across disciplines.
 
-Throughout the sessions, we will delve into the latest advancements, methodologies, and discoveries that shape the future of aircraft systems. This seminar serves as a platform for collaboration, where ideas are exchanged, challenges are addressed, and solutions are formulated. It is not only an opportunity to showcase individual achievements but also a chance to engage in meaningful dialogue that transcends disciplinary boundaries.
+For interdisciplinary exchange (networking), there will be a small social event and a joint dinner after the first day.
 
-As we navigate through this intellectual journey, let us foster an atmosphere of open-mindedness. Encourage the exchange of ideas, question assumptions, and challenge each other to elevate the discourse. Remember that each contribution, no matter how small, plays a vital role in advancing our collective understanding of aircraft systems.
-
-We extend my sincere gratitude to the organizing committee, the distinguished speakers, and each participant for making this event possible. Let us seize this opportunity to inspire and be inspired, forging connections that will endure beyond the confines of this seminar.
+Our sincere thanks to the outstanding speakers, all the participants, and the organizing committee for making this event possible. Let's take this opportunity to inspire, be inspired, and make connections that will last beyond the boundaries of this seminar.
