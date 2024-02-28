@@ -1,11 +1,4 @@
 <!DOCTYPE html>
-<header>
-  <a href="{{ "/" | relative_url }}" class="title">
-    <img src="{{ '/assets/ILS.LOGO.png' | relative_url }}" alt="ILS Logo">
-  </a>
-  {% include menu.html menu=pages %}
-</header>
-
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 <meta charset="{{ site.encoding }}">
