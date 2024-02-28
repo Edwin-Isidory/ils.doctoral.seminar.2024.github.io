@@ -1,4 +1,5 @@
 title: "ILS DOCTORAL SEMINAR 2024"
+logo: '/path/to/ils.png'
 author: "Edwin Isidory"
 description: "Institute of Aircraft Systems"
 permalink: /:title/
