@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome message"
+title: "Welcomevjuv message"
 ---
                 
 <div style="text-align: center;">
