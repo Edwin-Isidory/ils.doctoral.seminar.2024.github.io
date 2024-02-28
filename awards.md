@@ -16,12 +16,14 @@ X:\08 Dissertationen\10 Allgemeines\Doktorandenseminar\2024\Presentations
 
 **Presentation Format:**
 •	Your presentation can be in any format supported by Microsoft PowerPoint or PDF.
+
 •	Please ensure your slides are clear, legible, and visually engaging. Use high-contrast colors for text and background to enhance readability.
+
 •	Include a title slide with your presentation title, your name.
 
 **Please bring your presentation on your own laptop in case of any technical malfunctions.**
 
-Contact Information:
+**Contact Information:**
 Should you have any questions or require further information, please do not hesitate to contact us at vanessa.tietz@ils.uni-stuttgart.de. We are here to assist you in any way to ensure your presentation is successful.
 Thank you once again for your participation. We are looking forward to your presentation and to the insightful discussions it will undoubtedly prompt.
 
