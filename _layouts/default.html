@@ -29,7 +29,10 @@
 
 <header>
 
-  <img src="/assets/ils.png" alt="Site Logo" style="height: 50px;">
+ <div class="site-header">
+  <img src="/assets/ils.png" class="site-logo">
+  <h1 class="site-title">{{ site.title }}</h1>
+</div>
   
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
