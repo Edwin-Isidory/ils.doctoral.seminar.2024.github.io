@@ -1,5 +1,9 @@
 ---
 layout: page
+
+![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/36d7a383-10e1-446f-a267-047eb8b91551)
+
+
 title: "Welcome message"
 ---
 
