@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/25acf27c-e1d8-49aa-8212-f22a6277eb2b)
+![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/f17a486f-543c-4472-a0b5-d7ad2e2baeef)
+
 
 **ILS DOCTORAL SEMINAR 2024**
 
