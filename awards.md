@@ -2,6 +2,8 @@
 layout: page
 title: "Doctoral Seminar Presenter Instructions"
 ---
+![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/a08835c4-787d-43ae-b183-646810a3c0b0)
+
 Dear Presenter,
 Thank you for your participation in our upcoming doctoral seminar. Your contribution is invaluable, and we look forward to your presentation. Please find below important instructions and guidelines to ensure a smooth and effective session.
 
