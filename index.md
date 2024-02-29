@@ -3,9 +3,6 @@ layout: page
 ---
 ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/9cf86412-71fe-4936-80c0-47adfa787c97)
 
-
-![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/f17a486f-543c-4472-a0b5-d7ad2e2baeef)
-
 It is a special pleasure for us to welcome every one of you to this doctoral seminar at the Institute of Aircraft Systems (ILS). The doctoral seminar aims to exchange research results and findings in the field of aeronautical systems and to network. This year, for the first time, the doctoral seminar will take place as a block event lasting 2 days, thus promoting direct exchange among scientists and enabling listeners to gain a comprehensive insight into the research areas at the ILS.
 
 In the sessions, we will look at the latest advances, methods, and discoveries that are shaping the future of aircraft systems. This includes the development of avionics platforms, the study of certification methods, including in the AI area, as well as methods and tool development for avionics system development. 
