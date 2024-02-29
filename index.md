@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Welcome message"
 ---
 ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/25acf27c-e1d8-49aa-8212-f22a6277eb2b)
 
