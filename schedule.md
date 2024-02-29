@@ -2,6 +2,7 @@
 layout: page
 title: "Schedule"
 ---
+![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/f80fa160-3a6e-457e-8101-c2a2c2f49dc8)
   
   ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/b8731cd5-69e2-45e9-98df-5bbfeb234a41)
 
