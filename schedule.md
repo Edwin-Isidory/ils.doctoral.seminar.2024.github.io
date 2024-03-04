@@ -16,7 +16,7 @@ title: "Schedule"
 
 |   TIME...FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
-|09:00 - 09:10|[Automated Generation of Test Artifacts and Traceability](./abstracts.md#6-Cybersecurity-Attacks-and-Mitigation-Strategies-for-Self-Adaptive-Avionics:-A-Plug&Fly-Avionics-(PAFA)-Platform-Case-Study) | Zamira | V27.03|
+|09:00 - 09:10|Official opening | Zamira | V27.03|
 |   09:10 - 09:50  | Automated Generation of Test Artifacts and Traceability   | Christian     | V27.03   |
 |   09:50 - 10:30  | Automatic Generation of Certification Relevant Requirements of Complex Avionics Systems | Robert  | V27.03  |
 |   10:30 - 10:40 | COFFEE BREAK  | ALL  | V27.03  |
