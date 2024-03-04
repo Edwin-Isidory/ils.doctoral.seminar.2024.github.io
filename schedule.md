@@ -10,3 +10,21 @@ title: "Schedule"
   ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/19ed92a4-a914-48e9-8ea4-a31382e8159d)
 
 
+
+TIME	EVENT	RESPONSIBILITY	LOCATION
+09:00 - 09:10 	Official Opening	Björn, Zamira	V27.03
+09:10 - 09:50	Automated Generation of Test Artifacts and Traceability	Christian	V27.03
+09:50 - 10:30	Automatic Generation of Certification Relevant Requirements of Complex Avionics Systems	Robert	V27.03
+10:30 - 10:40	COFFEE BREAK		Lesesaal
+10:40 - 11:20	On the Path Towards Artificial Intelligence in a Flightdeck	Christoph	V27.03
+11:20 - 12:00	Challenges for Human-AI-Teaming in the Flight Deck Domain	Patrick	V27.03
+12:00 - 13:00	LUNCH BREAK		Lesesaal
+13:00 - 13:40	Cybersecurity Attacks and Mitigation for PAFA	Aisha	V27.03
+13:40 - 14:20	Model-based Avionics Cybersecurity Framework for Identification of Risk	Mario	V27.03
+14:20 - 14:30	COFFEE BREAK		Lesesaal
+14:30 - 15:10	Hypervisors and Plug & Fly	Raphael	V27.03
+15:10 - 15:50	Safety Critical Avionics System Architectures Based on SNARKs	Johannes	V27.03
+	BUFFER		
+16:00 - 18:00	SOCIAL EVENT	Bastian 	
+from 18:00	DINNER		
+![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/a089aed8-22f1-40fe-95f4-8153b226bca9)
