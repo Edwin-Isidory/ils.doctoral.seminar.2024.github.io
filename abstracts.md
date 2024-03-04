@@ -1,6 +1,6 @@
 
 
-**1. Ada and its Contribution to a Certifiable Domain-specific Modeling Framework**
+**1.  Ada and its Contribution to a Certifiable Domain-specific Modeling Framework**
 
 The Ada programming language was developed specifically for use in safety-critical environments and differs significantly from common programming languages like C or C++. While C follows the philosophy of 'Trust the programmer', Ada takes a more cautious approach with 'Trust the programmer, but verify through appropriate checking since programmers are human and make mistakes'. Properties such as strong typing, readability or “explicity over implicity” are intended to help fulfill this philosophy. In addition, Ada and the subset SPARK offer various checks that can detect errors at compile time. With the development of DOMAINES, a framework for the domain-specific modeling of safety-critical systems, we want to apply the methods of model-based system engineering (MBSE) increasingly to avionics and thus to a highly safety-critical environment. 
 
@@ -8,7 +8,7 @@ The core of this is the implementation of the simplified meta-modeling language 
 
 
 
-**2. Applying Qualifiable Model Transformations in Avionics Software Development with Automated Tool Qualification Support** 
+**2.  Applying Qualifiable Model Transformations in Avionics Software Development with Automated Tool Qualification Support** 
 
 Model transformations are used in the development for avionics software to make the process more efficient by automation. This presentation introduces a qualifiable model transformation language and engine (TRA) and a tool qualification agent (TQA) for an automated tool qualification support. The presentation shows the development of a model transformation for automating a step from the Integrated Modular Avionics (IMA) systems development. Additionally, the presentation shows the generation of the functional tool requirements for this model transformation. The developed model transformation creates ARINC 653 part 4 partitions for each IMA module in the platform architecture model and allocates the partitions on the IMA modules. Further, the model transformation creates a schedule with a schedule rate and a duration time for each created partition. 
 
@@ -16,7 +16,7 @@ The transformation generator transforms the transformation model into the execut
 
 
 
-**3. Automated Generation of Test Artifacts and Traceability for a Safety-Critical, Distributed Avionics Platform**
+**3.  Automated Generation of Test Artifacts and Traceability for a Safety-Critical, Distributed Avionics Platform**
 
 The development of complex, safety-critical systems requires a very high effort. Since such systems play a central role in, among others, modern manned or unmanned aircraft concepts, efficient methods for system development and certification are needed. A suitable platform to reach this goal for safety-critical avionics systems is the Flexible Avionics Platform developed at the Institute of Aircraft Systems in close collaboration with Aviotech GmbH. Unlike other approaches, such as Integrated Modular Avionics (IMA), it comprises an additional software layer between the real-time operating system (RTOS), running on common hardware modules, and the flight control laws, in the form of applications on the RTOS. This additional layer, the platform management (plama), abstracts the complexity of a platform instance (apfi), comprising multiple distributed modules connected via redundant data busses, their RTOS and plama, for the applications. 
 
