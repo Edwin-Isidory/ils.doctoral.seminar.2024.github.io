@@ -9,14 +9,18 @@ title: "Schedule"
 
   ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/19ed92a4-a914-48e9-8ea4-a31382e8159d)
 
+|   TIME...FRAME   |EVENT|RESPONSIBLE|LOCATION|
+|:-|:-|:-|:-|
+|09:00 - 09:10|[Automated Generation of Test Artifacts and Traceability](./abstracts.md#6-Cybersecurity-Attacks-and-Mitigation-Strategies-for-Self-Adaptive-Avionics:-A-Plug&Fly-Avionics-(PAFA)-Platform-Case-Study) | Zamira | V27.03|
+|   10:30 - 10:40 | COFFEE BREAK  | ALL  | V27.03  |
 
 |   TIME...FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
-|09:00 - 09:10|[Automated Generation of Test Artifacts and Traceability](./abstracts.md#6-Cybersecurity-Attacks-and-Mitigation-Strategies-for-Self-Adaptive-Avionics:-A-Plug&Fly-Avionics-(PAFA)-Platform-Case-Study) | Zamira | V27.03   |
+|09:00 - 09:10|[Automated Generation of Test Artifacts and Traceability](./abstracts.md#6-Cybersecurity-Attacks-and-Mitigation-Strategies-for-Self-Adaptive-Avionics:-A-Plug&Fly-Avionics-(PAFA)-Platform-Case-Study) | Zamira | V27.03|
 |   09:10 - 09:50  | Automated Generation of Test Artifacts and Traceability   | Christian     | V27.03   |
 |   09:50 - 10:30  | Automatic Generation of Certification Relevant Requirements of Complex Avionics Systems | Robert  | V27.03  |
 |   10:30 - 10:40 | COFFEE BREAK  | ALL  | V27.03  |
-|   10:40 - 11:20 | On the Path Towards Artificial Intelligence in a Flightdeck  | Patrick  | V27.03  |
+|   10:40 - 11:20 | [On the Path Towards Artificial Intelligence in a Flightdeck  | Patrick  | V27.03  |
 |   11:20 - 12:00 | Challenges for Human-AI-Teaming in the Flight Deck Domain | Patrick  | V27.03  |
 |   12:00 - 13:00  | LUNCH BREAK | ALL | V27.03  |
 |   13:00 - 13:40  | Cybersecurity Attacks and Mitigation for PAFA | Aisha | V27.03  |
