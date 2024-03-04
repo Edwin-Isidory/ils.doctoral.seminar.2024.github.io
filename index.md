@@ -9,7 +9,7 @@ In the sessions, we will look at the latest advances, methods, and discoveries t
 
 This seminar serves as a platform for collaboration, where ideas are exchanged, challenges are addressed, and solutions are formulated. It is not only an opportunity to showcase individual accomplishments but also a chance to engage in meaningful dialog across disciplines.
 
-[Link](#1.1)
+[Link](#1.1-Edwin-Isidory)
 
 
 
