@@ -15,7 +15,6 @@ title: "Schedule"
 |   09:00 - 09:10       | Official Opening                                                                 | Zamira | V27.03   |
 |   09:10 - 09:50       | Automated Generation of Test Artifacts and Traceability                          | Christian     | V27.03   |
 |   09:50 - 10:30       | Automatic Generation of Certification Relevant Requirements of Complex Avionics Systems | Robert  | V27.03  |
-
 |   10:30 - 10:40    | COFFEE BREAK  | ALL  | V27.03  |
 |   10:40 - 11:20    | On the Path Towards Artificial Intelligence in a Flightdeck  | Patrick  | V27.03  |
 |   11:20 - 12:00    | Challenges for Human-AI-Teaming in the Flight Deck Domain | Patrick  | V27.03  |
