@@ -12,8 +12,8 @@ title: "Schedule"
 
  | TIME | EVENT | RESPONSIBILITY | LOCATION |
 |----------|----------|----------|---------|
-| 09:00 - 09:10 | Automated Generation of test Artifacts and Traceability| Row 1, Column 3 | Row 4, Column 4 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 4, Column 4 |
+| 09:00 - 09:10 | Official Opening | Bjorn & Zamira | V27.03 |
+| 09:10 - 09:50 | Automated Generation of test Artifacts and Traceability | Christian | V27.03 |
 | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 4, Column 4 |
 
 
