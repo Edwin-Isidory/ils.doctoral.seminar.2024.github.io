@@ -11,7 +11,7 @@ title: "Schedule"
 
 |   TIME...FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
-|09:00 - 09:10|[Safety Critical Avionics System Architectures Based ion SNARKs](./abstracts.md#15-.-Safety-Critical-Avionics-System-Architectures-Based-on-SNARKs)| Zamira | V27.03|
+|09:00 - 09:10|[Link](./abstracts.md#4.-Automatic-generation-of-certification-relevant-requirements-of-complex-avionics-systems)| Zamira | V27.03|
 |   10:30 - 10:40 | COFFEE BREAK  | ALL  | V27.03  |
 
 Hypervisors and Plug & Fly in a new Space Launcher : A scalable approach to enhance Space Launcher development
