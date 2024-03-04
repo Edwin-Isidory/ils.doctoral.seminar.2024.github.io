@@ -28,7 +28,7 @@ Within the research project RPAS23-CP the RPAS, based on a Cirrus SR-22 aircraft
 
 
 
-# 4. Automatic generation of certification-relevant requirements of complex avionics systems 
+# 4. Automatic generation of certification relevant requirements of complex avionics systems 
 
 Advancement in air mobility leads to an increasing number of absolutely safety critical control functions (System Functions). To implement such functions in a highly reliable way, complex avionics systems are necessary. The development and qualification of such systems require a very high effort and cost, which is hardly acceptable for small aircraft. 
 
