@@ -11,8 +11,10 @@ title: "Schedule"
 
 |   TIME...FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
-|09:00 - 09:10|[Automated Generation of Test Artifacts and Traceability](./abstracts.md#6-On-the-Path-Towards-Artificial-Intelligence-in-a-Flightdeck) | Zamira | V27.03|
+|09:00 - 09:10|[Automated Generation of Test Artifacts and Traceability](./abstracts.md#Hypervisors-and-Plug-&-Fly-in-a-new-Space-Launcher-:-A-scalable-approach-to-enhance-Space-Launcher-development| Zamira | V27.03|
 |   10:30 - 10:40 | COFFEE BREAK  | ALL  | V27.03  |
+
+Hypervisors and Plug & Fly in a new Space Launcher : A scalable approach to enhance Space Launcher development
 
 |   TIME...FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
