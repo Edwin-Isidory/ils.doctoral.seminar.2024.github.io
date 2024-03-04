@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Presenter Instructions", file: "awards.md"}
   - {title: "Schedule", file: "schedule.md"}
   - {title: "Abstracts", file: "abstracts.md"}
-  - {title: "Social Events", file: "events.md"}
+  
   
 
   
