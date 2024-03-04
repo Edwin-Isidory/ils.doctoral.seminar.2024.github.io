@@ -1,4 +1,4 @@
-The followning arre zthe absdbcscjsbcjsbcssscs
+# The following is a list of abstracts for all the presenters
 
 # 1. Ada and its Contribution to a Certifiable Domain-specific Modeling Framework
 The Ada programming language was developed specifically for use in safety-critical environments and differs significantly from common programming languages like C or C++. While C follows the philosophy of 'Trust the programmer', Ada takes a more cautious approach with 'Trust the programmer, but verify through appropriate checking since programmers are human and make mistakes'. Properties such as strong typing, readability or “explicity over implicity” are intended to help fulfill this philosophy. In addition, Ada and the subset SPARK offer various checks that can detect errors at compile time. With the development of DOMAINES, a framework for the domain-specific modeling of safety-critical systems, we want to apply the methods of model-based system engineering (MBSE) increasingly to avionics and thus to a highly safety-critical environment. 
