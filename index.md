@@ -11,5 +11,5 @@ This seminar serves as a platform for collaboration, where ideas are exchanged, 
 
 [Link](#1.1)
 
-# 1.1 Edwin Isidory
+
 
