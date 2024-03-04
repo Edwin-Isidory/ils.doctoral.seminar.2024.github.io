@@ -10,7 +10,7 @@ title: "Schedule"
   ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/19ed92a4-a914-48e9-8ea4-a31382e8159d)
 
 
-|   DURATION   |EVENT|RESPONSIBLE|LOCATION|
+|   TIMEFRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
 |   09:00 - 09:10       | Official Opening                                                                 | Zamira | V27.03   |
 |   09:10 - 09:50       | Automated Generation of Test Artifacts and Traceability                          | Christian      | V27.03   |
