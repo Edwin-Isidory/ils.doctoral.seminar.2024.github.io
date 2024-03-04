@@ -11,7 +11,10 @@ title: "Schedule"
 
 |   TIME...FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
-|09:00 - 09:10|[Link Text](#automatic-generation-of-certification-relevant-requirements-of-complex-avionics-systems)
+|09:00 - 09:10|[Link Text](:/abstracts#automatic-generation-of-certification-relevant-requirements-of-complex-avionics-systems)
+
+| 09:00 - 09:10 | [Link Text](./abstracts.md#automatic-generation-of-certification-relevant-requirements-of-complex-avionics-systems) |
+
 | Zamira | V27.03|
 |   10:30 - 10:40 | COFFEE BREAK  | ALL  | V27.03  |
 
