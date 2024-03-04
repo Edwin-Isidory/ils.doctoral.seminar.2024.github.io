@@ -24,7 +24,7 @@ Day 1: 7th of March
 			
 TIME	EVENT	RESPONSIBILITY	LOCATION
 09:00 - 09:10 	Official Opening	Björn, Zamira	V27.03
-09:10 - 09:50	[Automated Generation of Test Artifacts and Traceability](./awards.md#	Christian	V27.03
+09:10 - 09:50	[Automated Generation of Test Artifacts and Traceability](./awards.md#6-Cybersecurity-Attacks-and-Mitigation-Strategies-for-Self-Adaptive-Avionics:-A-Plug&Fly-Avionics-(PAFA)-Platform-Case-Study)	Christian	V27.03
 09:50 - 10:30	Automatic Generation of Certification Relevant Requirements of Complex Avionics Systems	Robert	V27.03
 10:30 - 10:40	COFFEE BREAK		Lesesaal
 10:40 - 11:20	On the Path Towards Artificial Intelligence in a Flightdeck	Christoph	V27.03
