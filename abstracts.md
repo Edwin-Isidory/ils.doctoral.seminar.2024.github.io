@@ -121,7 +121,7 @@ The novelty of MACSFIRE lies within the automated security assessment of arbitra
 
 
 
-**11. MODEL-BASED AVIONICS ARCHITECTURE OF SPACE LAUNCHER SL1**
+**11. Model-based Avionics Architecture of Space Launcher SL1**
 
 Today’s modern space launcher avionics need to cope with increasing data rates, enhanced computer power, real-time processing and decision-making, fault tolerance, and redundancy, and enable more modular architectures. At the same time, launchers face strong market pressure through increased competition, affecting both development and recurring costs. Further challenges include the avoidance of both obsolescence and export restrictions at the component level. Using the TTEthernet technology will achieve fully deterministic high-speed connectivity and solve many challenges compared to the past MIL-1553 bus. This technology is fully redundant, which will reduce the software complexity by enabling faster integration, providing higher bandwidth, and at least maintaining the same level of reliability with the cost taken into consideration to increase. 
 
