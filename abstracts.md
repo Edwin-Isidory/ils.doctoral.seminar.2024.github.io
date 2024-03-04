@@ -1,20 +1,22 @@
 
 
-**Ada and its Contribution to a Certifiable Domain-specific Modeling Framework**
+**1. Ada and its Contribution to a Certifiable Domain-specific Modeling Framework**
 
 The Ada programming language was developed specifically for use in safety-critical environments and differs significantly from common programming languages like C or C++. While C follows the philosophy of 'Trust the programmer', Ada takes a more cautious approach with 'Trust the programmer, but verify through appropriate checking since programmers are human and make mistakes'. Properties such as strong typing, readability or “explicity over implicity” are intended to help fulfill this philosophy. In addition, Ada and the subset SPARK offer various checks that can detect errors at compile time. With the development of DOMAINES, a framework for the domain-specific modeling of safety-critical systems, we want to apply the methods of model-based system engineering (MBSE) increasingly to avionics and thus to a highly safety-critical environment. 
 
 The core of this is the implementation of the simplified meta-modeling language within RUNMDB. RUNMDB should be certifiable and therefore requires a suitable programming language. Due to the advantageous properties of Ada in a safety-critical environment, this programming language was chosen. This talk aims to provide a fundamental understanding of the Ada programming language, with a focus on its safety features that differentiate it from common languages like C. Simple examples will be analyzed together. We will examine which of these properties were specifically used in the implementation of the RUMDB of DOMAINES and their potential impact on its certifiability. In terms of safe and comprehensible software it is important to understand the usefulness of the Ada programming language in safety-critical applications. The objective of this talk is to enhance the comprehension of the Ada programming language and its value when used in safety-critical applications.
 
 
-**Applying Qualifiable Model Transformations in Avionics Software Development with Automated Tool Qualification Support** 
+
+**2. Applying Qualifiable Model Transformations in Avionics Software Development with Automated Tool Qualification Support** 
 
 Model transformations are used in the development for avionics software to make the process more efficient by automation. This presentation introduces a qualifiable model transformation language and engine (TRA) and a tool qualification agent (TQA) for an automated tool qualification support. The presentation shows the development of a model transformation for automating a step from the Integrated Modular Avionics (IMA) systems development. Additionally, the presentation shows the generation of the functional tool requirements for this model transformation. The developed model transformation creates ARINC 653 part 4 partitions for each IMA module in the platform architecture model and allocates the partitions on the IMA modules. Further, the model transformation creates a schedule with a schedule rate and a duration time for each created partition. 
 
 The transformation generator transforms the transformation model into the executable transformation code. Then, the transformation executor executes the model transformation on a platform architecture model. Fore this, the transformation rules consist of search patterns to find devices in the model and replacement patterns to create the partitions, allocations and schedules. Additional concepts that the model transformation uses are guard conditions and a linear rule sequencing. To ensure the model transformation language is qualifiable, the software design is implemented in MISRA-C and checked with a code analysis tool. The presentation shows the developed templates for the functional requirements and model transformations for the generation of the qualification artefacts. These qualification model transformations transform the requirements templates together with the transformation model into tool requirements. The validation shows that TRA can be applied to parts of an avionics software development process and tool requirements can be generated.
 
 
-**Automated Generation of Test Artifacts and Traceability for a Safety-Critical, Distributed Avionics Platform**
+
+**3. Automated Generation of Test Artifacts and Traceability for a Safety-Critical, Distributed Avionics Platform**
 
 The development of complex, safety-critical systems requires a very high effort. Since such systems play a central role in, among others, modern manned or unmanned aircraft concepts, efficient methods for system development and certification are needed. A suitable platform to reach this goal for safety-critical avionics systems is the Flexible Avionics Platform developed at the Institute of Aircraft Systems in close collaboration with Aviotech GmbH. Unlike other approaches, such as Integrated Modular Avionics (IMA), it comprises an additional software layer between the real-time operating system (RTOS), running on common hardware modules, and the flight control laws, in the form of applications on the RTOS. This additional layer, the platform management (plama), abstracts the complexity of a platform instance (apfi), comprising multiple distributed modules connected via redundant data busses, their RTOS and plama, for the applications. 
 
@@ -26,7 +28,8 @@ All test procedures are instantiated in the form of scripts for an automated exe
 Within the research project RPAS23-CP the RPAS, based on a Cirrus SR-22 aircraft, is planned to fly in non-segregated airspace. For that, all required test artifacts and their traceability for the plama verification on system and software high-level for the aircraft flight control system and the ground control station are generated as well as executed automatically and are validated manually.
 
 
-**Automatic generation of certification-relevant requirements of complex avionics systems** 
+
+**4. Automatic generation of certification-relevant requirements of complex avionics systems** 
 
 Advancement in air mobility leads to an increasing number of absolutely safety critical control functions (System Functions). To implement such functions in a highly reliable way, complex avionics systems are necessary. The development and qualification of such systems require a very high effort and cost, which is hardly acceptable for small aircraft. 
 
@@ -47,7 +50,8 @@ The key steps to realize this task are:
 4. Automate the Instantiation of APFI requirements by means of an xAx tool suite
 
 
-**Challenges for Human-AI-Teaming in the Flight Deck Domain**
+
+**5. Challenges for Human-AI-Teaming in the Flight Deck Domain**
 
 AI Systems are becoming more advanced and publicly available. They are pushing its way into aviation, as a highly regulated safety critical domain. However, AI promises to enhance flight crew performance, reducing workload, and improving overall safety and efficiency. To achieve this, several challenges must be addressed. Ensuring the safety for any system is paramount in aviation. Developers need to demonstrate that these systems are reliable, robust, and capable of handling unexpected situations or failures without compromising safety. The European Union Aviation Safety Agency (EASA) has published guidelines for developing machine learning applications for aviation purposes in February 2023. As outlined in the EASA Concept Paper for ML Applications, there are specific guidelines that an AI-based system must comply with before it can be considered safe and effective for use in flight deck operations. 
 
@@ -60,14 +64,17 @@ This will likely involve extensive user testing and feedback from experienced pi
 In conclusion, implementing AI systems within flight deck environments presents both challenges and opportunities for enhancing safety, efficiency, and performance within the aviation industry. By focusing on key areas such as common understanding of AI, evaluation of HAT systems, regulatory compliance, safety assurance, human factors, privacy concerns, and ongoing research into aspects of human-AI teaming, the successful deployment of these technologies in real-world environments will make a significant leap ahead.
 
 
-**Cybersecurity Attacks and Mitigation Strategies for Self-Adaptive Avionics: A Plug&Fly Avionics (PAFA) Platform Case Study** 
+
+**6. Cybersecurity Attacks and Mitigation Strategies for Self-Adaptive Avionics: A Plug&Fly Avionics (PAFA) Platform Case Study** 
 
 Increasing complexity and availability demands of traditional software systems have derived the need of self-adaptive systems. Self-adaptive systems automatically adjust their behavior at runtime to meet objectives. However, these systems accompany additional challenges specially in terms of security. These challenges include interaction with non-trusted entities, widening of attack surfaces due to multichannel communication, risk of unauthorized and malicious access to operating environment and so on. According to recent studies, selfadaptive systems are cultivating their way in aviation and avionics. Due to higher standards of safety and security for aircraft and aviation industry, the applicability of these systems is still questionable. Despite of extensive study conducted on safety and security of self-adaptive systems in different domains, there is yet no work done for security assessment of these in avionics. To fill the gap, this study discusses various state-of-the-art cybersecurity attacks applicable on self-adaptive avionics. For a comprehensive analysis, a case study of Plug&Fly Avionics (PAFA) is taken. 
 
 PAFA is a potential successor of Integrated Modular Avionics (IMA) and the future of avionics systems. It is designed to reduce effort by self-adaptability, introduce redundant functionalities, and reduce hardware required for safe and secure aircraft operation. This study analyzes PAFA operation in detail to find out cyber-security vulnerabilities that can potentially be exploited to pose cybersecurity attacks. Moreover, the impact of these attacks on various components of PAFA is studied. 
 According to the findings the most prevalent cybersecurity attacks on PAFA include Denial-of-Service (DoS) attacks, spoofing, malware infections, and data injection attacks. It is highly significant to understand and mitigate these for ensuring resilience of PAFA against such security attacks. Hence mitigation strategies are also proposed. The findings from this study are reliable and essentially contribute valuable insights to the ongoing discourse on avionics cybersecurity.
 
-**Hypervisors and Plug & Fly in a new Space Launcher : A scalable approach to enhance Space Launcher development** 
+
+
+**7. Hypervisors and Plug & Fly in a new Space Launcher : A scalable approach to enhance Space Launcher development** 
 
 The development of a new space launch vehicle is a lengthy and iterative process. In particular, the integration of subsystems, sensors, and actuators requires adaptable and easily integrable launch vehicle functionality. At the same time, safety requirements must be met in the form of redundancies. Additionally, development cycles lead to updates and an increasing number of sensors. This is accompanied by skyrocketing hardware costs and increased rocket complexity. To reduce these expenses, commercial off-the-shelf (COTS) components are used. Consequently, the demand for COTS components is currently very high. Adding more sensors to the system results in an unmanageable and complex system design. As a result, the launch vehicle becomes less maintainable and observable over time, making it more difficult to implement additional sensors. 
 
@@ -79,7 +86,9 @@ The implementation includes a developed API. It serves as a bridge between Plug 
 [1] M. Brunner, J. Reinhart, B. Schulz, E. Preissing, S. Moennikes and B. Annighoefer, "HardwareIndependent Self-Discovery of Peripherals and Modules of a Self-Adaptive Avionics Platform," 2022 IEEE/AIAA 41st Digital Avionics Systems Conference (DASC) 
 [2] B. Schulz and B. Annighöfer, "Evaluation of Adaptive Partitioning and Real-Time Capability for Virtualization With Xen Hypervisor," in IEEE Transactions on Aerospace and Electronic Systems, vol. 58, no. 1, pp. 206-217, Feb. 2022, doi: 10.1109/TAES.2021.3104941.
 
-**IoT in Aviation – An evaluation of IoT standards to use in DaKliF**
+
+
+**8. IoT in Aviation – An evaluation of IoT standards to use in DaKliF**
 
 The project DaKliF (short for "Datenzentrierte, autokonfigurierbare Avionikplattform für die Luftfahrt") focuses on developing a data-centric architecture for avionics systems. Thisincludes the development of new software tools and techniques for automated configuration and management of avionics systems. These tools shall enable the platform to be easily integrated into existing aircraft systems and to be easily upgraded if the cabin is refurbished. It shall also enable the efficient use of hardware resources and reduce the number of reconfigurations required. Hence, the platform will be designed to be highly flexible and adaptable, allowing it to be used in a variety of aircraft and with different types of sensors and actuators. 
 
@@ -88,7 +97,8 @@ As a basis for that, it uses OAAM and the PAFA self-description for the handling
 And last but not least, the standards are usually not designed with the applicability in an aviation setting in mind so there are potentially specific characteristics which are not compatible with the usage in aircraft systems. Because of these challenges, the ILS started an evaluation of different IoT and smart home standards as well as some communication standards used in the entertainment industry. This evaluation shall give the project partners in DaKliF (namely Airbus, Diehl, TUHH, DLR and ZAL) an orientation for the selection of the IoT standard used in DaKliF. This evaluation can also be a basis for further aviation and cabin projects. This presentation shows the differences between the evaluated standards and the results of this evaluation.
 
 
-**Methods Transfer from Aviation to Automotive**
+
+**9. Methods Transfer from Aviation to Automotive**
 
 Automotive industry transforms into a domain with growing dominance of SW. Trends like connectivity and autonomous driving make the industry to move its focus to a so-called “SW as a product” approach. As a result, automotive companies work towards SW-defined architecture, ramp up SW competence with qualified capacities and continuously improve their SW development processes. Challenges which occur during that activities are the growing complexity of SW and increasing safety criticality. Release process as well as field experience management get a wider scope and need to be reviewed. Aviation, with experience of having developed safety critical and complex features at the same time having a very good safety record over the last decades, is an area automotive SW development can benefit from. 
 
@@ -96,7 +106,9 @@ As a first step a comparison structure is defined. This is because the scope of 
 
 These are especially implementation including design and coding guidance together with review methods as well as verification and validation. While validation and release management turn into to bigger concern especially for autonomous driving experience of aviation in certification methods is looked at. As a last step, post development steps are compared in order to check which lessons learned from SW field updates or incident management can be taken.
 
-**Model-based Avionics Cybersecurity Framework for Identification of Risk and Evaluation (MACSFIRE)** 
+
+
+**10. Model-based Avionics Cybersecurity Framework for Identification of Risk and Evaluation (MACSFIRE)** 
 
 Security Risk Assessment (SRA) is an extensive process, to verify that a proposed design will fulfill certain cyber-security related requirements. The aviation industry experienced a significant change after 2021, when an amendment to the certification specifications for civil aircraft the authorities required security risk assessments to be carried out while developing certifiable aircraft. Nowadays, most of the assessment is done manually and is reliant on expert knowledge. 
 Manual SRA for large system of systems, like an aircraft, is extensive, error prone and costly. While frameworks and guidelines for conducting SRA manually, like the NIST Risk Management Framework or the aviation standards RTCA DO-326 and DO-356 exist, there is no software framework which automatically or semi-automatically conducts SRA. 
@@ -107,13 +119,17 @@ The graph is used for automatically determining threat scenarios, after specific
 
 The novelty of MACSFIRE lies within the automated security assessment of arbitrary systems based on a model-based description. The tool is capable of minimizing manual repetitive work and exhibits interfaces for the connection to vulnerability or threat databases. In the end, the tool produces human-readable artifacts compliant to the RTCA DO-326 and DO-356 standards.
 
-**MODEL-BASED AVIONICS ARCHITECTURE OF SPACE LAUNCHER SL1**
+
+
+**11. MODEL-BASED AVIONICS ARCHITECTURE OF SPACE LAUNCHER SL1**
 
 Today’s modern space launcher avionics need to cope with increasing data rates, enhanced computer power, real-time processing and decision-making, fault tolerance, and redundancy, and enable more modular architectures. At the same time, launchers face strong market pressure through increased competition, affecting both development and recurring costs. Further challenges include the avoidance of both obsolescence and export restrictions at the component level. Using the TTEthernet technology will achieve fully deterministic high-speed connectivity and solve many challenges compared to the past MIL-1553 bus. This technology is fully redundant, which will reduce the software complexity by enabling faster integration, providing higher bandwidth, and at least maintaining the same level of reliability with the cost taken into consideration to increase. 
 
 This talk aims to provide a fundamental modeling of the small launcher SL1 with a focus on introducing a modular, scalable systems avionics architecture of the small launcher SL1 based on deterministic ethernet with the aim of saving cost and simplifying the avionics architectures of the named space launcher. We will examine the modeling of the avionics architecture of the small launcher SL1 using XGEE, examine the full proposed design architecture and fault tolerance and redundancy of the design architecture.
 
-**On the Path towards Artificial Intelligence in a Flightdeck An Anthropomorphic Approach to Leverage Trust Phase III: Flight Performance Monitoring** 
+
+
+**12. On the Path towards Artificial Intelligence in a Flightdeck An Anthropomorphic Approach to Leverage Trust Phase III: Flight Performance Monitoring** 
 
 In many areas of daily life, algorithms implementing artificial intelligence exhibit exciting potential. In contrast to conventional, rule-based algorithms, AI can cope with uncertainties and perform in situations it has not been trained for. Such characteristics might be needed for future autonomous flights because aviation can produce situations that have not happened before. However, because the scope of all pilot tasks cannot be defined to its full extent, and because AI can learn from experience and change its behaviour - both to the good and the worse - AI currently cannot be certified using the applicable regulatory frameworks. Still, in order to enable the usage of AI in a flightdeck, a certain level of trust must be achieved first. 
 
@@ -123,14 +139,18 @@ In order to adapt the training scenarios from human pilot training and checking 
 
 The presentation will detail the flight parameters monitored and how these are analyzed and aggregated into a situation picture on several levels: E.g. flight safety, stability, flight tolerances, adequacy of control inputs, alignment with the mission objectives, flight economy and efficiency, or passenger comfort. The evaluation takes place on the fly so that the AI pilot can process and implement the multi-dimensional feedback on its flight performance during the flight. After landing, the overall situation picture is ultimately assessed in line with the check standards in manned aviation and fed back to the AI. With an electronic flight instructor and examiner, an aspiring AI pilot can be trained autonomously, even in a time-lapsed manner, and with multiple flight training lessons running in parallel. This leads to increased training efficiency, an essential factor considering AI's higher training needs than those of humans.
 
-**Qualifiable Graphical Editing of Domain-specific Models in Safety critical Avionics through Block Diagram Recognition**
+
+
+**13. Qualifiable Graphical Editing of Domain-specific Models in Safety critical Avionics through Block Diagram Recognition**
 
 Domain-specific modeling is employed in the aviation industry to handle the increasing complexity in avionics systems. The safety-criticality of avionics software requires developers to comply with certain design assurance levels in the software development process. When software tools are employed, assurance is achieved by tool qualification. However, a notable market gap is the absence of qualified graphical user interfaces for these tools. Presently, verification of two-dimensional block diagrams within modeling environments is conducted manually. Manual verification is both cumbersome and error-prone, underscoring the need for a qualifiable domain-specific modeling environment with a qualifiable visualization. The DOMAINES project addresses this gap by developing a qualifiable modeling environment. It features a qualified core that is decoupled from other components, such as the visualization. 
 
 The visualization itself uses a visualization model to specify the graphical representation of modeling elements. The goal of achieving qualifiable visualization is realized in combination with the Visualization Verification Tool (VVT), which automates the previously manual task of verifying the visualization against the model. The VVT verifies the visualization by reconstructing the model from the visualized block diagram. It starts with tokenizing the diagram like a lexer based on the available visualization elements provided by the visualization model. Subsequently, the syntactical analysis checks the concrete syntax to ensure compliance with rules such as ports are located at the border of blocks. Leveraging the metamodel, the VVT reconstructs the model for comparison against the original. 
 Deviations are identified as either human or technical errors in visualization that need to be corrected by the user. This presentation focuses on block-diagram recognition, highlighting the application of computer vision for the lexer. Preliminary results demonstrate the capability of the VVT to accurately tokenize basic use cases. The ongoing development of VVT within the DOMAINES project represents a critical step towards achieving qualifiable visualizations of avionics models.
 
-**How would modern programming languages affect the avionics software certification process?**
+
+
+**14. How would modern programming languages affect the avionics software certification process?**
 
 Most safety-critical software, especially in the avionics domain, has traditionally been written in C due to its predictability, traceability to object code and control over low-level system resources. However, the evolution of programming languages has introduced potential alternatives like Ada and C++ which have been successfully used in the flight control systems of the F-16 and F-35 aircraft. In recent times, Rust has emerged as a compelling choice for system-level programming due to its emphasis on safety and concurrency, traits that are highly desirable in safety-critical applications. Notably, Rust's compiler is renowned for its helpful error messages, and its feature to compile to various backends, like LLVM and gcc. 
 
@@ -138,7 +158,9 @@ Rust’s use in the purely C and Assembly-written Linux Kernel highlights its gr
 
 This talk aims to show the impact of modern programming languages, with a focus on Rust, on the avionics software certification process. We will explore how the features of Rust align with the requirements of safety-critical software certification and discuss the implications of employing modern compilers and technologies such as LLVM and WebAssembly in the development of avionics software. The presentation will provide an overview of the current avionics software certification processes and investigate the limitations and opportunities presented by modern software development approaches.
 
-**Safety-Critical Avionics System Architectures Based on SNARKs**
+
+
+**15. Safety-Critical Avionics System Architectures Based on SNARKs**
 
 We propose and validate new architectures for safety-critical avionics systems that make use of modern cryptographic techniques. The new architectures require fewer redundant components but provide quantitative safety-guarantees similar to conventional architectures. We can achieve this by ensuring integrity using Succinct Non-Interactive Arguments of Knowledge (SNARKs). Modern aircraft consist of several safety-critical avionics systems which can cause hazardous or catastrophic effects in the event of a malfunction. A prominent example is a digital Fly-by-Wire system where unintended behavior or a loss of function causes hazards that are considered catastrophic. Therefore, these systems must meet strict integrity and availability requirements. 
 
