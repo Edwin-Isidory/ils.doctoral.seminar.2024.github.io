@@ -21,16 +21,14 @@ title: "Schedule"
 |13:00 - 13:40|[Cybersecurity Attacks and Mitigation for PAFA](./abstracts.md#6-cybersecurity-attacks-and-mitigation-strategies-for-self-adaptive-avionics-a-plug&fly-avionics-(pafa)-platform-case-study)|Christian|V27.03|
 |13:40 - 14:20|[Model-based Avionics Cybersecurity Framework for Identification of Risk and Evaluation](./abstracts.md#10-model-based-avionics-cybersecurity-framework-for-identification-of-risk-and-evaluation)|Mario|V27.03|
 |14:20 - 14:30|COFFEE BREAK| ALL |Lesesaal|
+|14:30 - 15:10|[Hypervisors and PLug&Fly](./abstracts.md#7-hypervisors-and-plug&fly-in-a-new-space-launcher-:-a-scalable-approach-to-enhance-space-launcher-development)| Raphael |V27.03|
+|15:10 - 15:50|[Safety Critical Avionics System Architectures Based on SNARKs](./abstracts.md#7-hypervisors-and-plug&fly-in-a-new-space-launcher-:-a-scalable-approach-to-enhance-space-launcher-development)| Raphael |V27.03|
+|15:50 - 16:00|BUFFER| ALL |  |
+|16:00 - 18:00|SOCIAL EVENTS| ALL |  |
+|18:00 - 22:00|DINNER| ALL | |
 
 
 
-|09:00 - 09:10|[Edwin](./abstracts.md#4-automatic-generation-of-certification-relevant-requirements-of-complex-avionics-systems)|
-
-
-| 09:00 - 09:10 | [Link Text](./abstracts.md#automatic-generation-of-certification-relevant-requirements-of-complex-avionics-systems) |
-
-| Zamira | V27.03|
-|   10:30 - 10:40 | COFFEE BREAK  | ALL  | V27.03  |
 
 
 |   TIME...FRAME   |EVENT|RESPONSIBLE|LOCATION|
