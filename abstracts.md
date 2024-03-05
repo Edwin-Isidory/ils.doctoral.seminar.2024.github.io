@@ -15,7 +15,7 @@ The transformation generator transforms the transformation model into the execut
 
 
 
-# 3.  Automated Generation of Test Artifacts and Traceability for a Safety-Critical, Distributed Avionics Platform
+# 3.  Automated Generation of Test Artifacts and Traceability for a Safety-Critical Distributed Avionics Platform
 
 The development of complex, safety-critical systems requires a very high effort. Since such systems play a central role in, among others, modern manned or unmanned aircraft concepts, efficient methods for system development and certification are needed. A suitable platform to reach this goal for safety-critical avionics systems is the Flexible Avionics Platform developed at the Institute of Aircraft Systems in close collaboration with Aviotech GmbH. Unlike other approaches, such as Integrated Modular Avionics (IMA), it comprises an additional software layer between the real-time operating system (RTOS), running on common hardware modules, and the flight control laws, in the form of applications on the RTOS. This additional layer, the platform management (plama), abstracts the complexity of a platform instance (apfi), comprising multiple distributed modules connected via redundant data busses, their RTOS and plama, for the applications. 
 
