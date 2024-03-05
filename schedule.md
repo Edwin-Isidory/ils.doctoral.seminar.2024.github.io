@@ -2,6 +2,7 @@
 layout: page
 title: "Schedule"
 ---
+vhvhvjh
 ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/f80fa160-3a6e-457e-8101-c2a2c2f49dc8)
   
   ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/b8731cd5-69e2-45e9-98df-5bbfeb234a41)
@@ -22,7 +23,7 @@ title: "Schedule"
 |13:40 - 14:20|[Model-based Avionics Cybersecurity Framework for Identification of Risk and Evaluation](./abstracts.md#10-model-based-avionics-cybersecurity-framework-for-identification-of-risk-and-evaluation)|Mario|V27.03|
 |14:20 - 14:30|COFFEE BREAK| ALL |Lesesaal|
 |14:30 - 15:10|[Hypervisors and PLug&Fly](./abstracts.md#7-hypervisors-and-plug--fly-in-a-new-space-launcher--a-scalable-approach-to-enhance-space-launcher-development)| Raphael |V27.03|
-|15:10 - 15:50|[Safety Critical Avionics System Architectures Based on SNARKs](./abstracts.md#7-safety--critical-avionics-system-architectures-based-on-snarks)| Raphael |V27.03|
+|15:10 - 15:50|[Safety Critical Avionics System Architectures Based on SNARKs](./abstracts.md#15-safety--critical-avionics-system-architectures-based-on-snarks)| Raphael |V27.03|
 |15:50 - 16:00|BUFFER| ALL |  |
 |16:00 - 18:00|SOCIAL EVENTS| ALL |  |
 |18:00 - 22:00|DINNER| ALL | |
