@@ -12,6 +12,12 @@ title: "Schedule"
 |   TIME...FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
 |09:00 - 09:10|Official opening | Zamira | V27.03|
+|09:10 - 09:50|[Automated Generation of Test Artifacts and Traceability](./abstracts.md#3-automated-generation-of-test-artifacts-and-traceability-for-a-safety-critical-,-distributed-avionics-platform) | Christian | V27.03|
+|09:50 - 10:30| [Automation Generation of Certification Relevant Requirements of Complex Systems](./abstracts.md#4-automatic-generation-of-certification-relevant-requirements-of-complex-systems) | Zamira | V27.03|
+|10:30 - 10:40|COFFEE BREAK| Zamira | V27.03|
+|09:00 - 09:10|[On the Path Towards AI in a Flight Deck Domain](./abstracts.md#12-on-the-path-towards-artificial-intelligence-in-a-flightdeck-an-anthropomorphic-approach-to-leverage-trust-phase-III-:-flight-performance-monitoring ) | Zamira | V27.03|
+|09:00 - 09:10|Official opening | Zamira | V27.03|
+|09:00 - 09:10|Official opening | Zamira | V27.03|
 |09:10 - 09:50|[ghch Text](./abstracts.md#9-methods-transfer-from-aviation-to-automotive)|Christian|V27.03|
 |09:00 - 09:10|[Edwin](./abstracts.md#4-automatic-generation-of-certification-relevant-requirements-of-complex-avionics-systems)|
 
