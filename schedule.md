@@ -7,7 +7,7 @@ title: "Schedule"
 **DAY 1: 7TH MARCH 2024**
 
 
-|   TIME.....FRAME   |EVENT|RESPONSIBLE|LOCATION|
+|   TIME.....FRAME   |EVENT|RESPONSIBLE PERSON|LOCATION|
 |:-|:-|:-|:-|
 |09:00 - 09:10|Official opening | Bjorn & Zamira | V27.03|
 |09:10 - 09:50| [Automated Generation of Test Artifacts and Traceability](./abstracts.md#3-automated-generation-of-test-artifacts-and-traceability-for-a-safety-critical-distributed-avionics-platform) | Christian | V27.03|
@@ -15,7 +15,7 @@ title: "Schedule"
 |10:30 - 10:40|COFFEE BREAK| ALL |Lesesaal|
 |10:40 - 11:20|[On the Path Towards AI in a Flight Deck Domain](./abstracts.md#12-on-the-path-towards-artificial-intelligence-in-a-flightdeck-an-anthropomorphic-approach-to-leverage-trust-phase-iii-flight-performance-monitoring) | Christoph | V27.03|
 |11:20 - 12:00|[Challenges for Human AI Teaming in the Flight Deck Domain](./abstracts.md#5-challenges-for-human-ai-teaming-in-the-flight-deck-domain) | Patrick | V27.03|
-|12:00 - 13:00| LUNCH BREAK | ALL | V27.03|
+|12:00 - 13:00| LUNCH BREAK | Lesesaal | V27.03|
 |13:00 - 13:40|[Cybersecurity Attacks and Mitigation for PAFA](./abstracts.md#6-cybersecurity-attacks-and-mitigation-strategies-for-self-adaptive-avionics-a-plugfly-avionics-pafa-platform-case-study)|Aisha|V27.03|
 |13:40 - 14:20|[Model-based Avionics Cybersecurity Framework for Identification of Risk and Evaluation](./abstracts.md#10-model-based-avionics-cybersecurity-framework-for-identification-of-risk-and-evaluation-macsfire)|Mario|V27.03|
 |14:20 - 14:30|COFFEE BREAK| ALL |Lesesaal|
