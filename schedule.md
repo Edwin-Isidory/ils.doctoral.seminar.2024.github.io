@@ -2,6 +2,7 @@
 layout: page
 title: "Schedule"
 ---
+cvbn
 ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/f80fa160-3a6e-457e-8101-c2a2c2f49dc8)
   
   ![image](https://github.com/Edwin-Isidory/ils.doctoral.seminar.2024.github.io/assets/148284895/b8731cd5-69e2-45e9-98df-5bbfeb234a41)
@@ -12,8 +13,7 @@ title: "Schedule"
 |   TIME.....FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
 |09:00 - 09:10|Official opening | Zamira | V27.03|
-|09:10 - 09:50| [Automated Generation of Test Artifacts and Traceability](./abstracts.md#3-automated-generation-of-test-artifacts-and-traceability-for-a-safety-critical-distributed-avionics-platform) | Robert | V27.03|
-|09:10 - 09:50| [Automated Generation of Test Artifacts and Traceability](./abstracts.md#3-automated-generation-of-test-artifacts-and-traceability-for-a-safety-critical-distributed-avionics-platform)| Christian | V27.03|
+|09:10 - 09:50| [Automated Generation of Test Artifacts and Traceability](./abstracts.md#3-automated-generation-of-test-artifacts-and-traceability-for-a-safety-critical-distributed-avionics-platform) | Christian | V27.03|
 |09:50 - 10:30| [Automation Generation of Certification Relevant Requirements of Complex Systems](./abstracts.md#4-automatic-generation-of-certification-relevant-requirements-of-complex-avionics-systems) | Robert | V27.03|
 |10:30 - 10:40|COFFEE BREAK| ALL |Lesesaal|
 |10:40 - 11:20|[On the Path Towards AI in a Flight Deck Domain](./abstracts.md#12-on-the-path-towards-artificial-intelligence-in-a-flightdeck-an-anthropomorphic-approach-to-leverage-trust-phase-iii-flight-performance-monitoring) | Christoph | V27.03|
