@@ -12,8 +12,8 @@ title: "Schedule"
 |   TIME...FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
 |09:00 - 09:10|Official opening | Zamira | V27.03|
-|09:10 - 09:50|[Automated Generation of Test Artifacts and Traceability](./abstracts.md#3-automated-generation-of-test-artifacts-and-traceability-for-a-safety-critical-distributed-avionics-platform) | Christian | V27.03|
-|09:50 - 10:30| [Automation Generation of Certification Relevant Requirements of Complex Systems](./abstracts.md#4-automatic-generation-of-certification-relevant-requirements-of-complex-systems) | Robert | V27.03|
+|09:10 - 09:50|[Automated Generation of Test Artifacts and Traceability](./abstracts.md#3-automated-generation-of-test-artifacts-and-traceability-for-a-safety-critical,-distributed-avionics-platform) | Christian | V27.03|
+|09:50 - 10:30| [Automation Generation of Certification Relevant Requirements of Complex Systems](./abstracts.md#4-automatic-generation-of-certification-relevant-requirements-of-complex-avionics-systems) | Robert | V27.03|
 |10:30 - 10:40|COFFEE BREAK| ALL |Lesesaal|
 |10:40 - 11:20|[On the Path Towards AI in a Flight Deck Domain](./abstracts.md#12-on-the-path-towards-artificial-intelligence-in-a-flightdeck-an-anthropomorphic-approach-to-leverage-trust-phase-III-:-flight-performance-monitoring) | Christoph | V27.03|
 |11:20 - 12:00|[Challenges for Human AI Teaming in the Flight Deck Domain](./abstracts.md#5-challenges-for-human-ai-teaming-in-the-flight-deck-domain) | Patrick | V27.03|
