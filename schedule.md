@@ -12,8 +12,7 @@ title: "Schedule"
 |   TIME...FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
 |09:00 - 09:10|Official opening | Zamira | V27.03|
-|09:10 - 09:50|[Lijvjvjv Text](./abstracts.md#2-applying-qualifiable-model-transformations-in-avionics-software-development-with-automated-tool-qualification-support)
-|Christian|V27.03|
+|09:10 - 09:50|[ghch Text](./abstracts.md#2.-applying-qualifiable-model-transformations-in-avionics-software-development-with-automated-tool-qualification-support)|Christian|V27.03|
 |09:50 - 10:30| [Automatic Generation of Certification Relevant Requirements of Complex Avionics Systems](./abstracts.md#4-Automatic-Generation-of-Certification-Relevent-Requirements-of-Complex-Avionics-Systems)| Robert  | V27.03  |
 |10:30 - 10:40|COFFEE BREAK| ALL| V27.03  |
 |09:00 - 09:10|[Edwin](./abstracts.md#4-automatic-generation-of-certification-relevant-requirements-of-complex-avionics-systems)|
