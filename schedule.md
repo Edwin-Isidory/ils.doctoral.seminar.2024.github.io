@@ -3,7 +3,10 @@ layout: page
 title: "Schedule"
 ---
 **Each presentation slot contains 20 minutes of presenting and 20 minutes for Q&A**
+
 **DAY 1: 7TH MARCH 2024**
+
+
 |   TIME.....FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
 |09:00 - 09:10|Official opening | Bjorn & Zamira | V27.03|
@@ -26,7 +29,10 @@ title: "Schedule"
 
 
 **Each presentation slot contains 20 minutes of presenting and 20 minutes for Q&A**
+
 **DAY 2: 8TH MARCH 2024**
+
+
 |   TIME.....FRAME   |EVENT|RESPONSIBLE|LOCATION|
 |:-|:-|:-|:-|
 |09:00 - 09:10|Opening | Bjron & Zamira | V27.03|
