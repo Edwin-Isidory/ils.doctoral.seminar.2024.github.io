@@ -7,9 +7,9 @@ title: "Schedule"
 **DAY 1: 7TH MARCH 2024**
 
 
-|   TIME.....FRAME   |EVENT|RESPONSIBLE PERSON|LOCATION|
+|   TIME.....FRAME   |EVENT|RESPONSIBLE...PERSON|LOCATION|
 |:-|:-|:-|:-|
-|09:00 - 09:10|Official opening | Bjorn | V27.03|
+|09:00 - 09:10|Official opening | Bjorn / Zamira | V27.03|
 |09:10 - 09:50| [Automated Generation of Test Artifacts and Traceability](./abstracts.md#3-automated-generation-of-test-artifacts-and-traceability-for-a-safety-critical-distributed-avionics-platform) | Christian | V27.03|
 |09:50 - 10:30| [Automation Generation of Certification Relevant Requirements of Complex Systems](./abstracts.md#4-automatic-generation-of-certification-relevant-requirements-of-complex-avionics-systems) | Robert | V27.03|
 |10:30 - 10:40|COFFEE BREAK| ALL |Lesesaal|
@@ -33,9 +33,9 @@ title: "Schedule"
 **DAY 2: 8TH MARCH 2024**
 
 
-|   TIME.....FRAME   |EVENT|RESPONSIBLE|LOCATION|
+|   TIME.....FRAME   |EVENT|RESPONSIBLE...PERSON|LOCATION|
 |:-|:-|:-|:-|
-|09:00 - 09:10|Opening | Bjorn | V27.03|
+|09:00 - 09:10|Opening | Bjorn / Zamira | V27.03|
 |09:10 - 09:50|[Rust in Avionics](./abstracts.md#14-how-would-modern-programming-languages-affect-the-avionics-software-certification-process) | Bastian | V27.03|
 |09:50 - 10:30| [ADA and its Contribution to a Certifiable Domain-specific Modeling Framework](./abstracts.md#1-ada-and-its-contribution-to-a-certifiable-domain-specific-modeling-framework) | Vanessa | V27.03|
 |10:30 - 10:40|COFFEE BREAK| ALL |Lesesaal|
