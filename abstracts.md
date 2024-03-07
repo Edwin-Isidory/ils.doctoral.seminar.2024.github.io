@@ -43,10 +43,10 @@ The approach of the Flexible Avionics Platform (APF) and its related AAA Process
 
 This work focuses on the automatic generation of APFI requirements at the system design level. The automatic generation must be possible for every possible APFI. Furtheremore, the generated requirements must comply with airworthiness standards up to DAL A and must enable the automatic generation of test cases and scripts necessary for a complete verification of an APFI. 
 The key steps to realize this task are: 
-1. Identification of all relevant generic APFI features, such as reconfigurations or operating management. 
-2. Expressing the genric APFI features as Requirement Classes 
-3. Instantiation of APFI requirements
-4. Automate the Instantiation of APFI requirements by means of an xAx tool suite
+ 1. Identification of all relevant generic APFI features, such as reconfigurations or operating management. 
+ 2. Expressing the genric APFI features as Requirement Classes 
+ 3. Instantiation of APFI requirements
+ 4. Automate the Instantiation of APFI requirements by means of an xAx tool suite
 
 
 
@@ -82,8 +82,13 @@ Above all, the possible strict segregation between multicore and system function
 
 The implementation includes a developed API. It serves as a bridge between Plug & Fly Avionics and the Xen Hypervisor. While the Plug & Fly middleware provides devices, the API prepares the environment so that the required services and system functions can be executed on partitions in the system. The API enables system-wide method calls for configuring the system according to its requirements. Furthermore, the robustness of the system is ensured by a simple fall-back orchestration. A combination of the Plug & Fly concept and virtualization using Xen is a promising approach to address the challenges of launch vehicle development. The demonstrator showcases the modularity, robustness, and cost reduction of this approach.
 
-[1] M. Brunner, J. Reinhart, B. Schulz, E. Preissing, S. Moennikes and B. Annighoefer, "HardwareIndependent Self-Discovery of Peripherals and Modules of a Self-Adaptive Avionics Platform," 2022 IEEE/AIAA 41st Digital Avionics Systems Conference (DASC) 
-[2] B. Schulz and B. Annighöfer, "Evaluation of Adaptive Partitioning and Real-Time Capability for Virtualization With Xen Hypervisor," in IEEE Transactions on Aerospace and Electronic Systems, vol. 58, no. 1, pp. 206-217, Feb. 2022, doi: 10.1109/TAES.2021.3104941.
+[1] M. Brunner, J. Reinhart, B. Schulz, E. Preissing, S. Moennikes and B. Annighoefer, "HardwareIndependent Self-Discovery 
+    of Peripherals and Modules of a Self-Adaptive Avionics Platform," 2022 IEEE/AIAA 41st Digital Avionics Systems 
+    Conference (DASC) 
+
+[2] B. Schulz and B. Annighöfer, "Evaluation of Adaptive Partitioning and Real-Time Capability for Virtualization With Xen 
+    Hypervisor," in IEEE Transactions on Aerospace and Electronic Systems, vol. 58, no. 1, pp. 206-217, Feb. 2022, doi: 
+    10.1109/TAES.2021.3104941.
 
 
 
